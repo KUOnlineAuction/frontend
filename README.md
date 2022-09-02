@@ -10,4 +10,5 @@ npm install
 2. Start Server
 ```
 npm run start
+npm run end
 ```

@@ -11,4 +11,5 @@ npm install
 ```
 npm run start
 npm run end
+npm run stop
 ```

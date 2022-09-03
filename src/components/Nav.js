@@ -46,6 +46,7 @@ const Nav = () => {
 					<Link to="#" className="nav-link nav-item">Currently Bidding</Link>
 					<Link to="#" className="nav-link nav-item">Currently on Auction</Link>
 					<Link to="#" className="nav-link nav-item">My Following List</Link>
+					<Link to="/signin" className="nav-link nav-item">TEMP signin</Link>
 				</div>
 			</div>
 			{/* Offcanvas END*/}

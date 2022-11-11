@@ -116,6 +116,7 @@ const AuctionDetail = () => {
               type="text"
               className="form-control"
               placeholder="e.g. White fluffy bunny doll"
+              maxlength="200"
               onChange={(e) =>
                 setAuctionDetails({
                   ...auctionDetails,
@@ -134,6 +135,7 @@ const AuctionDetail = () => {
               className="form-control"
               rows="8"
               placeholder="e.g. White bunny with soft fur"
+              maxlength="3000"
               onChange={(e) =>
                 setAuctionDetails({
                   ...auctionDetails,

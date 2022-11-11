@@ -277,7 +277,7 @@ const Shipping = () => {
                   className="no-outline-btn"
                   onClick={getInformationFromProfileHandler}
                 >
-                  Use information from profile
+                  Use information from my payment
                 </button>
               </div>
 
